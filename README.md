@@ -1,6 +1,4 @@
 # git-essentials
-
-
-##Deployment
-##Staging
-##Mark Down
+## Deployment
+## Staging
+## Mark Down
